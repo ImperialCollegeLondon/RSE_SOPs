@@ -1,6 +1,5 @@
----
-title: SOP-01 - Standard Operating Procedure for Software-Oriented Project Work
----
+SOP-01 - Standard Operating Procedure for Software-Oriented Project Work
+========================================================================
 
 * TOC
 {:toc}
