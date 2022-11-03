@@ -147,8 +147,6 @@ The specific actions for the PL at this stage are:
     could be a good time to send it to the Research Leader to start the gathering
     information process.
 
-###  7.2. Requirements and resources gathering
-
 This step is all about the PL gathering all the relevant information about the software
 -- and the project as a whole -- to decide if we can go ahead with the project. The
 specific questions that need answering are:
@@ -187,7 +185,7 @@ they might be able to use, to other teams or consultants who could potentially h
 them, or suggesting ideas to reformulate the project so we can take it (or parts of it).
 (FIXME: mention OSB and Code Surgeries.)
 
-###  7.3. Planning of the project proposal
+###  7.2. Planning of the project proposal
 
 Planning and writing the project proposal is an iterative process to be written together
 with the Research Leader any relevant member of the Research Team and the RSE Team Lead
@@ -206,26 +204,21 @@ in the SharePoint of the RSE Team under
 [General/Projects/Leads](https://imperiallondon.sharepoint.com/:f:/r/sites/RSE/Shared%20Documents/General/Projects/Leads?csf=1&web=1&e=e17Ugf)
 with the name of the project and share it with the Research Leader.
 
-###  7.4. Project approval
+###  7.3. Funding and Allocation
 
-###  7.5. Project start
+###  7.4. Project execution
 
-###  7.6. Project delivery
-    
+####  7.4.3. Start of the project
 
-####  7.6.1. Day-to-day project activity
+####  7.4.2. Day-to-day project activity
 
-####  7.6.2. Meetings
+####  7.4.3. Meetings
 
-####  7.6.3. Reports
+####  7.4.4. Reports
 
-####  7.6.4. Contingency plans
+####  7.4.5. Contingency plans
 
 ###  7.7. Project closure
-
-
-###  7.8. Follow up
-
 
 ##  8. References
 
