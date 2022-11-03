@@ -187,11 +187,26 @@ them, or suggesting ideas to reformulate the project so we can take it (or parts
 ###  7.2. Planning of the project proposal
 
 Planning and writing the project proposal is an iterative process to be written together
-with the Research Leader any relevant member of the Research Team and the RSE Team Lead
-and Technical Lead when appropriate. It aims to capture the specific scope of the
-project, deliverables, features and timeline, as well as describing any aspects of the
-project that might need clarification or agreed beforehand (like license issues,
-reporting schedule, input data or resources from the Research Leader, etc.)
+with the **Research Leader** any relevant member of the Research Team, as well as the
+RSE Team Lead and Technical Lead when appropriate. It aims to:
+
+- agree the scope of the project with researchers
+- prioritise features
+- define the technologies to be used 
+- provide time estimates for each task
+
+Most projects have one or more milestones and very big projects are further divided into
+different phases. During this stage, we also agree on the split of responsibilities
+between teams and how they will communicate during the lifetime of the project. 
+
+Other aspects that will be addressed during the planning stage relate to the license of
+the software and potential commercialisation. Check the [Legal Information
+section](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/legal-information/)
+of the RSE Team webpage for more details about this.  
+
+Generally, the project should be planned in units of **0.35 FTEs per month (6.5
+days/month)**. More than 0.7 FTEs per month is possible but it may take longer for the
+project to be allocated (see below). 
 
 The **Project Template** contains all the relevant sections that need to be completed,
 with hints on how to complete them, as well as some fixed sections containing
@@ -202,6 +217,9 @@ When starting this stage, the Project Leader will create a copy of the Project T
 in the SharePoint of the RSE Team under
 [General/Projects/Leads](https://imperiallondon.sharepoint.com/:f:/r/sites/RSE/Shared%20Documents/General/Projects/Leads?csf=1&web=1&e=e17Ugf)
 with the name of the project and share it with the Research Leader.
+
+In summary, the end goal of this phase is to define a concrete set of outputs the
+project will deliver, a timeline for the delivery of the project and its overall costs.
 
 ###  7.3. Funding and Allocation
 
