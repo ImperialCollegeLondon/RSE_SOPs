@@ -1,36 +1,8 @@
 
 # SOP-01: Standard Operating Procedure for Software-Oriented Project Work
 
-<!-- vscode-markdown-toc -->
-* 1. [Authorship](#Authorship)
-* 2. [Version record](#Versionrecord)
-* 3. [Glossary](#Glossary)
-* 4. [Introduction](#Introduction)
-* 5. [Purpose](#Purpose)
-* 6. [Roles and Responsibilities](#RolesandResponsibilities)
-* 7. [Procedure](#Procedure)
-	* 7.1. [Project initiation](#Projectinitiation)
-	* 7.2. [Requirements and resources gathering](#Requirementsandresourcesgathering)
-	* 7.3. [Planning of the project proposal](#Planningoftheprojectproposal)
-	* 7.4. [Project approval](#Projectapproval)
-	* 7.5. [Project start](#Projectstart)
-	* 7.6. [Project delivery](#Projectdelivery)
-		* 7.6.1. [Day-to-day project activity](#Day-to-dayprojectactivity)
-		* 7.6.2. [Meetings](#Meetings)
-		* 7.6.3. [Reports](#Reports)
-		* 7.6.4. [Contingency plans](#Contingencyplans)
-	* 7.7. [Project closure](#Projectclosure)
-	* 7.8. [Follow up](#Followup)
-* 8. [References](#References)
-* 9. [Related SOPs and other documents](#RelatedSOPsandotherdocuments)
-* 10. [Appendices](#Appendices)
-	* 10.1. [Project selection criteria](#Projectselectioncriteria)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+* TOC
+{:toc}
 
 ##  1. <a name='Authorship'></a>Authorship 
 
