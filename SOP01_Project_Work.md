@@ -5,19 +5,19 @@ title: SOP-01 - Standard Operating Procedure for Software-Oriented Project Work
 * TOC
 {:toc}
 
-##  1. <a name='Authorship'></a>Authorship 
+##  1. Authorship 
 
--   Dr Diego Alonso Álvarez, Senior Research Software Engineer
+-   Dr Diego Alonso Álvarez, RSE Team Lead
 
 
-##  2. <a name='Versionrecord'></a>Version record
+##  2. Version record
 
   | Version Number | Effective date | Reason for change   |
   | -------------- | -------------- | ------------------- |
   | 0              | 15 Sep 2021    | Creation of the SOP |
   | 0.1            | 3 Nov 2022     | Move to Markdown    |
 
-##  3. <a name='Glossary'></a>Glossary
+##  3. Glossary
 
 - **Software**: The target artefact of the project work. This might be a single piece of 
   software or several of them, it could be made of independent scripts, be a library or an 
@@ -40,7 +40,7 @@ title: SOP-01 - Standard Operating Procedure for Software-Oriented Project Work
   software, their  scopes, tasks to be performed and timeline for the completion of the
   project.
 
-##  4. <a name='Introduction'></a>Introduction
+##  4. Introduction
 
 Standard Operating Procedures (SOPs) are succinct formal documents designed to achieve
 consistency in specified functions by defining a standard practice in performing those
@@ -51,7 +51,7 @@ College RSE Team, part of the Research Computing Service (ICT) and describes the
 responsibilities, and actions necessary for the effective definition and management of
 software-oriented project work.
 
-##  5. <a name='Purpose'></a>Purpose
+##  5. Purpose
 
 This SOP describes the principles of project work within the RSE Team that is mostly
 software oriented. There is separate SOP (SOP-02) for those projects mostly about
@@ -70,7 +70,7 @@ that must be follow for each project in principle, there is scope for reasonable
 adjustments should the specific project require them, and assuming they are properly
 justified. Those situations will be evaluated on a case-by-case basis.
 
-##  6. <a name='RolesandResponsibilities'></a>Roles and Responsibilities
+##  6. Roles and Responsibilities
 
 -   **The Project Leader (PL)** is the member of the RSE Team (typically a Senior RSE)
     responsible for the overall delivery of the project and for the effective
@@ -99,11 +99,11 @@ justified. Those situations will be evaluated on a case-by-case basis.
     information and resources required for a successful and timely completion of the
     project. Might delegate some of these tasks to other members of the Research Team
 
-##  7. <a name='Procedure'></a>Procedure
+##  7. Procedure
 
 (Workflow summary)
 
-###  7.1. <a name='Projectinitiation'></a>Project initiation
+###  7.1. Project initiation
 
 A project starts with an Imperial researcher getting in touch with the RSE Team. This
 first contact might follow different routes, including: 
@@ -144,7 +144,7 @@ The specific actions for the PL at this stage are:
     could be a good time to send it to the Research Leader to start the gathering
     information process.
 
-###  7.2. <a name='Requirementsandresourcesgathering'></a>Requirements and resources gathering
+###  7.2. Requirements and resources gathering
 
 This step is all about the PL gathering all the relevant information about the software
 -- and the project as a whole -- to decide if we can go ahead with the project. The
@@ -184,7 +184,7 @@ they might be able to use, to other teams or consultants who could potentially h
 them, or suggesting ideas to reformulate the project so we can take it (or parts of it).
 (FIXME: mention OSB and Code Surgeries.)
 
-###  7.3. <a name='Planningoftheprojectproposal'></a>Planning of the project proposal
+###  7.3. Planning of the project proposal
 
 Planning and writing the project proposal is an iterative process to be written together
 with the Research Leader any relevant member of the Research Team and the RSE Team Lead
@@ -203,31 +203,31 @@ in the SharePoint of the RSE Team under
 [General/Projects/Leads](https://imperiallondon.sharepoint.com/:f:/r/sites/RSE/Shared%20Documents/General/Projects/Leads?csf=1&web=1&e=e17Ugf)
 with the name of the project and share it with the Research Leader.
 
-###  7.4. <a name='Projectapproval'></a>Project approval
+###  7.4. Project approval
 
-###  7.5. <a name='Projectstart'></a>Project start
+###  7.5. Project start
 
-###  7.6. <a name='Projectdelivery'></a>Project delivery
+###  7.6. Project delivery
     
 
-####  7.6.1. <a name='Day-to-dayprojectactivity'></a>Day-to-day project activity
+####  7.6.1. Day-to-day project activity
 
-####  7.6.2. <a name='Meetings'></a>Meetings
+####  7.6.2. Meetings
 
-####  7.6.3. <a name='Reports'></a>Reports
+####  7.6.3. Reports
 
-####  7.6.4. <a name='Contingencyplans'></a>Contingency plans
+####  7.6.4. Contingency plans
 
-###  7.7. <a name='Projectclosure'></a>Project closure
-
-
-###  7.8. <a name='Followup'></a>Follow up
+###  7.7. Project closure
 
 
-##  8. <a name='References'></a>References
+###  7.8. Follow up
 
 
-##  9. <a name='RelatedSOPsandotherdocuments'></a>Related SOPs and other documents
+##  8. References
+
+
+##  9. Related SOPs and other documents
 
 - RSE Team Principles -- aka "RSE Team World Domination Scheme"
 - SOP-02: Standard Operating Procedure for Training Projects.
@@ -235,9 +235,9 @@ with the name of the project and share it with the Research Leader.
 - Project report template
 - Quotation template
 
-##  10. <a name='Appendices'></a>Appendices
+##  10. Appendices
 
-###  10.1. <a name='Projectselectioncriteria'></a>Project selection criteria
+###  10.1. Project selection criteria
 
 The following list compiles more concrete questions that could help to decide to go
 ahead with a project, and that elaborate on the higher-level questions included in
