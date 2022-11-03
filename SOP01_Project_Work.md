@@ -1,4 +1,3 @@
-
 ---
 title: SOP-01: Standard Operating Procedure for Software-Oriented Project Work
 ---
