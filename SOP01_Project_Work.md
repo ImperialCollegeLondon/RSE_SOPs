@@ -101,7 +101,10 @@ justified. Those situations will be evaluated on a case-by-case basis.
 
 ##  7. Procedure
 
-(Workflow summary)
+The following diagram shows in brief the timeline of a typical engagement. The duration
+each stage varies depending on the size and nature of the project.
+
+![Software projects workflow](images/software_projects.png)
 
 ###  7.1. Project initiation
 
